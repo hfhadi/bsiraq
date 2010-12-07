@@ -1,0 +1,132 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:Default.aspx" caret="3089" fromTop="64" />
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:addHouse.aspx.designer.cs" caret="1428" fromTop="40" />
+      <File id="d:&amp;/f:Global.asax.cs/l:C!?P4?Application?BSIraq?Global.asax.cs" caret="235" fromTop="12" />
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:searchResult.aspx" caret="364" fromTop="9" />
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:buy.aspx.cs" caret="196" fromTop="9" />
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:home.aspx.cs" caret="195" fromTop="9" />
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:map.aspx.cs" caret="492" fromTop="5" />
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:register.aspx.cs" caret="199" fromTop="9" />
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:sell.aspx" caret="0" fromTop="0" />
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:sell.aspx.cs" caret="193" fromTop="9" />
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:site.Master.cs" caret="195" fromTop="9" />
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/d:controls/f:login.ascx.cs" caret="163" fromTop="7" />
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/d:controls/f:search.ascx.cs" caret="291" fromTop="11" />
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:addHouse.aspx" caret="1083" fromTop="34" />
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:addHouse.aspx.cs" caret="288" fromTop="0" />
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:searchResult.aspx.cs" caret="230" fromTop="10" />
+      <File id="d:&amp;/f:Extensions.cs/l:C!?P4?Application?BSIraq?framework?Extensions.cs" caret="296" fromTop="12" />
+      <File id="d:&amp;/f:Helper.cs/l:C!?P4?Application?BSIraq?framework?Helper.cs" caret="283" fromTop="10" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:searchResult.aspx.cs" caret="277" fromTop="27" />
+      <File id="d:&amp;/f:Global.asax.cs/l:C!?P4?Application?BSIraq?Global.asax.cs" caret="247" fromTop="12" />
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:searchResult.aspx.cs" caret="277" fromTop="19" />
+      <File id="d:&amp;/f:Helper.cs/l:C!?P4?Application?BSIraq?framework?Helper.cs" caret="904" fromTop="30" />
+      <File id="d:&amp;/f:Helper.cs/l:C!?P4?Application?BSIraq?framework?Helper.cs" caret="856" fromTop="25" />
+      <File id="d:&amp;/f:Helper.cs/l:C!?P4?Application?BSIraq?framework?Helper.cs" caret="539" fromTop="18" />
+      <File id="d:&amp;/f:Helper.cs/l:C!?P4?Application?BSIraq?framework?Helper.cs" caret="882" fromTop="29" />
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:searchResult.aspx.cs" caret="277" fromTop="23" />
+      <File id="d:&amp;/f:Helper.cs/l:C!?P4?Application?BSIraq?framework?Helper.cs" caret="219" fromTop="10" />
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:searchResult.aspx" caret="364" fromTop="9" />
+      <File id="d:&amp;/f:Helper.cs/l:C!?P4?Application?BSIraq?framework?Helper.cs" caret="784" fromTop="25" />
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:searchResult.aspx.cs" caret="277" fromTop="42" />
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:searchResult.aspx.cs" caret="0" fromTop="0" />
+      <File id="d:&amp;/f:Extensions.cs/l:C!?P4?Application?BSIraq?framework?Extensions.cs" caret="273" fromTop="12" />
+      <File id="d:&amp;/f:Extensions.cs/l:C!?P4?Application?BSIraq?framework?Extensions.cs" caret="308" fromTop="12" />
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:searchResult.aspx.cs" caret="256" fromTop="10" />
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:addHouse.aspx.cs" caret="288" fromTop="8" />
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:buy.aspx.cs" caret="197" fromTop="9" />
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:home.aspx.cs" caret="195" fromTop="9" />
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:map.aspx.cs" caret="1115" fromTop="5" />
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:map.aspx.cs" caret="492" fromTop="5" />
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:register.aspx.cs" caret="199" fromTop="9" />
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:searchResult.aspx.cs" caret="117" fromTop="6" />
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:sell.aspx" caret="0" fromTop="0" />
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:sell.aspx.cs" caret="193" fromTop="9" />
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:site.Master.cs" caret="195" fromTop="9" />
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/d:controls/f:login.ascx.cs" caret="163" fromTop="7" />
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/d:controls/f:search.ascx.cs" caret="204" fromTop="9" />
+      <File id="d:&amp;/f:Helper.cs/l:C!?P4?Application?BSIraq?framework?Helper.cs" caret="653" fromTop="17" />
+      <File id="d:&amp;/f:Helper.cs/l:C!?P4?Application?BSIraq?framework?Helper.cs" caret="283" fromTop="10" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="new" priority="3" />
+      <Item value="Array" priority="0" />
+      <Item value="int" priority="0" />
+      <Item value="IntegerValidator" priority="0" />
+      <Item value="Response" priority="0" />
+      <Item value="return" priority="1" />
+      <Item value="gMap" priority="1" />
+      <Item value="true" priority="0" />
+      <Item value="var" priority="5" />
+      <Item value="String" priority="0" />
+      <Item value="sb" priority="1" />
+      <Item value="using" priority="0" />
+      <Item value="conn" priority="2" />
+      <Item value="cmd" priority="1" />
+      <Item value="string" priority="4" />
+      <Item value="OleDbDataAdapter" priority="0" />
+      <Item value="sql" priority="0" />
+      <Item value="da" priority="2" />
+      <Item value="dataDump" priority="3" />
+      <Item value="dt" priority="1" />
+      <Item value="private" priority="0" />
+      <Item value="public" priority="2" />
+      <Item value="DataRowExtensions" priority="0" />
+      <Item value="void" priority="1" />
+      <Item value="view" priority="1" />
+      <Item value="GetTable" priority="0" />
+      <Item value="Helper" priority="2" />
+      <Item value="Repeater" priority="0" />
+      <Item value="WebControl" priority="0" />
+      <Item value="this" priority="0" />
+      <Item value="rptr" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpResponse">
+      <Item value="Write" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Subgurim.Controles.GMap">
+      <Item value="enableServerEvents" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.OleDb.OleDbConnection">
+      <Item value="CreateCommand" priority="0" />
+      <Item value="Disposed" priority="0" />
+      <Item value="Dispose" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.OleDb.OleDbCommand">
+      <Item value="CommandText" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.OleDb.OleDbDataAdapter">
+      <Item value="Fill" priority="0" />
+      <Item value="Dispose" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.GridView">
+      <Item value="DataSource" priority="1" />
+      <Item value="DataBind" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BSIraq.framework.Helper">
+      <Item value="Bind" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

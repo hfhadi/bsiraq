@@ -1,0 +1,15 @@
+C:\P4\Application\BSIraq\bin\BSIraq.dll
+C:\P4\Application\BSIraq\bin\BSIraq.pdb
+C:\P4\Application\BSIraq\bin\Telerik.Web.UI.dll
+C:\P4\Application\BSIraq\bin\Telerik.Web.UI.xml
+C:\P4\Application\BSIraq\obj\Debug\ResolveAssemblyReference.cache
+C:\P4\Application\BSIraq\obj\Debug\BSIraq.dll
+C:\P4\Application\BSIraq\obj\Debug\BSIraq.pdb
+C:\Users\salam\Documents\Visual Studio 2008\Projects\BSIraq_v1\BSIraq\bin\BSIraq.dll
+C:\Users\salam\Documents\Visual Studio 2008\Projects\BSIraq_v1\BSIraq\bin\BSIraq.pdb
+C:\Users\salam\Documents\Visual Studio 2008\Projects\BSIraq_v1\BSIraq\bin\Telerik.Web.UI.xml
+C:\Users\salam\Documents\Visual Studio 2008\Projects\BSIraq_v1\BSIraq\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\salam\Documents\Visual Studio 2008\Projects\BSIraq_v1\BSIraq\obj\Debug\BSIraq.dll
+C:\Users\salam\Documents\Visual Studio 2008\Projects\BSIraq_v1\BSIraq\obj\Debug\BSIraq.pdb
+C:\Users\salam\Documents\Visual Studio 2008\Projects\BSIraq_v1\BSIraq\bin\GMaps.dll
+C:\P4\Application\BSIraq\bin\GMaps.dll

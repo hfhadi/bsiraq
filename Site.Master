@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.Master.cs" Inherits="BSIraq.Site" %>
+
+<%@ Register src="controls/Search.ascx" tagname="search" tagprefix="uc1" %>
+<%@ register assembly="GMaps" namespace="Subgurim.Controles" tagprefix="cc1" %> 
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+
+
+    <form id="form1" runat="server">
+
+    <table border=1 width=100%>
+        <tr>
+            <td><a href="Home.aspx">Home</a></td>
+            <td><a href="Buy.aspx">Buyers</a></td>
+            <td><a href="Sell.aspx">Sellers</a></td>
+            <td><a href="Register.aspx">Register</a></td>
+            <td><a href="AddHouse.aspx">Add&nbsp;House</a></td>
+            <td><a href="SearchResult.aspx">Search&nbsp;Result</a></td>
+             <td><a href="map.aspx">Map</a></td>
+            <td width="100%">
+            
+            </td>
+            <td width="200">
+                <uc1:search ID="search1" runat="server" />
+            </td>
+        </tr>
+        <tr>
+            <td colspan=100>
+                <asp:ContentPlaceHolder ID="Main" runat="server"/>
+                
+            </td>
+        </tr>
+    </table>    
+    
+    </form>
+</body>
+</html>
