@@ -5,7 +5,8 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="Main" runat="server">
 
 <div style="float:left">
- Hello World la la la to be or not
+ Hello World la la la
+ali baba
  <cc1:GMap ID="GMap1" runat="server" Width="900px" Height="600px" 
          /> 
 </div>
