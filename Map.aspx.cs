@@ -28,7 +28,8 @@ namespace BSIraq
 
             //مواقع البيوت على الخريطه
             
-            
+            //some test
+
             //مدينة بغداد
             GLatLng latlng = new GLatLng(33.303708016355245, 44.3720680475235);
             GLatLng latlng1 = new GLatLng(33.30494095074294, 44.3713653087616);
