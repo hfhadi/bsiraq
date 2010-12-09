@@ -5,7 +5,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="Main" runat="server">
 
 <div style="float:left">
- Hello World la la la
+ Hello World la la la what is up
  <cc1:GMap ID="GMap1" runat="server" Width="900px" Height="600px" 
          /> 
 </div>
