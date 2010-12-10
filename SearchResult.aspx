@@ -2,9 +2,9 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="Main" runat="server">
 
 
-    <asp:GridView ID="dataDump" runat="server">
-    </asp:GridView>
-
+    
+    
+    
 <table width="700">
     <tr>
         <asp:Repeater ID="rptr" runat=server>
