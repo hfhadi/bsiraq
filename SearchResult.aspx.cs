@@ -9,6 +9,7 @@ namespace BSIraq
         protected void Page_Load(object sender, EventArgs e)
         {
             rptr.Bind("Select * from House");
+            
         }
     }
 }

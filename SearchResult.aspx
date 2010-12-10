@@ -7,7 +7,7 @@
     
 <table width="700">
     <tr>
-        <asp:Repeater ID="rptr" runat=server>
+        <asp:Repeater ID="rptr" runat="server">
           <ItemTemplate>
             <tr>
                 <td valign="top">
@@ -20,11 +20,14 @@
                     <%# DataBinder.Eval(Container.DataItem, "Description") %>
                     <br /> <br />
                     Rooms: <%# DataBinder.Eval(Container.DataItem, "Rooms") %>
-                    | Bathrooms: <%# DataBinder.Eval(Container.DataItem, "Bathrooms")%>
+                    | Bathrooms: <%# DataBinder.Eval(Container.DataItem, "Bathrooms")%><br />
+                    City:<%# DataBinder.Eval(Container.DataItem, "City")%>
                 </td>
                 <td valign="top">
                     <font color="red">
                          <%# DataBinder.Eval(Container.DataItem, "Price") %>
+                         
+                         
                     </font>
                 </td>
             </tr>
