@@ -30,7 +30,7 @@
             </asp:DropDownList>
         </td>
         <td colspan=2>
-            <asp:Button ID="Button1" runat="server" Text="Search" />
+            <asp:Button ID="Button1" runat="server" Text="Search" onclick="btnSearch" />
         </td>
     </tr>
     

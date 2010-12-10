@@ -72,6 +72,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AboutUs.aspx.cs">
+      <DependentUpon>AboutUs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AboutUs.aspx.designer.cs">
+      <DependentUpon>AboutUs.aspx</DependentUpon>
+    </Compile>
     <Compile Include="AddHouse.aspx.cs">
       <DependentUpon>AddHouse.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -85,6 +92,20 @@
     </Compile>
     <Compile Include="Buy.aspx.designer.cs">
       <DependentUpon>Buy.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ContactUs.aspx.cs">
+      <DependentUpon>ContactUs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ContactUs.aspx.designer.cs">
+      <DependentUpon>ContactUs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="controls\HouseList.ascx.cs">
+      <DependentUpon>HouseList.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="controls\HouseList.ascx.designer.cs">
+      <DependentUpon>HouseList.ascx</DependentUpon>
     </Compile>
     <Compile Include="controls\Search.ascx.cs">
       <DependentUpon>Search.ascx</DependentUpon>
@@ -164,8 +185,11 @@
     <None Include="App_Data\RadSpell\de-DE.tdf" />
     <None Include="App_Data\RadSpell\en-US.tdf" />
     <None Include="App_Data\RadSpell\fr-FR.tdf" />
+    <Content Include="AboutUs.aspx" />
     <Content Include="AddHouse.aspx" />
     <Content Include="Buy.aspx" />
+    <Content Include="ContactUs.aspx" />
+    <Content Include="controls\HouseList.ascx" />
     <Content Include="database\bsiraq.accdb">
     </Content>
     <Content Include="Global.asax" />
@@ -217,7 +241,7 @@
           <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
         </WebProjectProperties>
       </FlavorProperties>
-      <UserProperties UseAjaxifiedTemplates="True" UseJQuerySupport="True" />
+      <UserProperties UseJQuerySupport="True" UseAjaxifiedTemplates="True" />
     </VisualStudio>
   </ProjectExtensions>
 </Project>

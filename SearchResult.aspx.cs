@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Web.UI;
-using BSIraq.framework;
 
 namespace BSIraq
 {
@@ -8,7 +7,7 @@ namespace BSIraq
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            rptr.Bind("Select * from House");
+            ctrlHouseList.Build();
         }
     }
 }

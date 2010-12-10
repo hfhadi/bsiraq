@@ -13,5 +13,10 @@ namespace BSIraq.controls
         {
 
         }
+
+        protected void btnSearch(object sender, EventArgs e)
+        {
+            Response.Redirect("SearchResult.aspx");
+        }
     }
 }

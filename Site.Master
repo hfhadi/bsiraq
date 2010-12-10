@@ -17,15 +17,15 @@
 
     <form id="form1" runat="server">
 
-    <table border=1 width=100%>
+    <table border="1" width="100%">
         <tr>
             <td><a href="Home.aspx">Home</a></td>
             <td><a href="Buy.aspx">Buyers</a></td>
             <td><a href="Sell.aspx">Sellers</a></td>
             <td><a href="Register.aspx">Register</a></td>
-            <td><a href="AddHouse.aspx">Add&nbsp;House</a></td>
+            <!-- td><a href="AddHouse.aspx">Add&nbsp;House</a></td>
             <td><a href="SearchResult.aspx">Search&nbsp;Result</a></td>
-             <td><a href="map.aspx">Map</a></td>
+            <td><a href="map.aspx">Map</a></td -->
             <td width="100%">
             
             </td>
