@@ -1,6 +1,5 @@
 C:\P4\Application\BSIraq\bin\BSIraq.dll
 C:\P4\Application\BSIraq\bin\BSIraq.pdb
-C:\P4\Application\BSIraq\bin\Telerik.Web.UI.dll
 C:\P4\Application\BSIraq\bin\Telerik.Web.UI.xml
 C:\P4\Application\BSIraq\obj\Debug\ResolveAssemblyReference.cache
 C:\P4\Application\BSIraq\obj\Debug\BSIraq.dll
