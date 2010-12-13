@@ -11,7 +11,7 @@ namespace BSIraq.framework
     public static class Helper
     {
         private const string _dbConnectionString =
-            @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\P4\Application\BSIraq\database\bsiraq.accdb;Persist Security Info=False;";
+            @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\salam\bsiraq\database\bsiraq.accdb;Persist Security Info=False;";
 
         public static void Bind(CompositeDataBoundControl view, string sql)
         {

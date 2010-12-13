@@ -13,3 +13,10 @@ C:\Users\salam\Documents\Visual Studio 2008\Projects\BSIraq_v1\BSIraq\obj\Debug\
 C:\Users\salam\Documents\Visual Studio 2008\Projects\BSIraq_v1\BSIraq\obj\Debug\BSIraq.pdb
 C:\Users\salam\Documents\Visual Studio 2008\Projects\BSIraq_v1\BSIraq\bin\GMaps.dll
 C:\P4\Application\BSIraq\bin\GMaps.dll
+C:\Users\salam\bsiraq\bin\GMaps.dll
+C:\Users\salam\bsiraq\bin\Telerik.Web.UI.xml
+C:\Users\salam\bsiraq\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\salam\bsiraq\obj\Debug\BSIraq.dll
+C:\Users\salam\bsiraq\obj\Debug\BSIraq.pdb
+C:\Users\salam\bsiraq\bin\BSIraq.dll
+C:\Users\salam\bsiraq\bin\BSIraq.pdb

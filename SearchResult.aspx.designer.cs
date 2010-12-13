@@ -14,12 +14,20 @@ namespace BSIraq {
     public partial class SearchResult {
         
         /// <summary>
+<<<<<<< HEAD
         /// ctrlHouseList control.
+=======
+        /// rptr control.
+>>>>>>> 1d617138f88b6695e971d22c747daeacf8f33682
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
+<<<<<<< HEAD
         protected global::BSIraq.controls.HouseList ctrlHouseList;
+=======
+        protected global::System.Web.UI.WebControls.Repeater rptr;
+>>>>>>> 1d617138f88b6695e971d22c747daeacf8f33682
     }
 }
