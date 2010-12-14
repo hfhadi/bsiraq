@@ -1,3 +1,2 @@
-*.dll
-/bin
-/_Resharper.BSIraq
+/bin/*
+/_Resharper.BSIraq/*
