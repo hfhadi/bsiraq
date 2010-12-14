@@ -29,13 +29,8 @@
                 <asp:ListItem Text="4+" />
             </asp:DropDownList>
         </td>
-<<<<<<< HEAD
         <td colspan=2>
             <asp:Button ID="Button1" runat="server" Text="Search" onclick="btnSearch" />
-=======
-        <td colspan="2">
-            <asp:Button ID="Button1" runat="server" Text="Search" />
->>>>>>> 1d617138f88b6695e971d22c747daeacf8f33682
         </td>
     </tr>
     
