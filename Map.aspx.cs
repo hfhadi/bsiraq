@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Web.UI;
+using BSIraq.framework;
 using Subgurim.Controles;
 //For Gmap
 
@@ -12,8 +14,35 @@ namespace BSIraq
         {
             //مواقع البيوت على الخريطه
 
+
+            var table = Helper.GetTable("Select * from House");
+
+            GMap1.enableHookMouseWheelToZoom = true;
+            GMap1.setCenter(new GLatLng(33.303708016355245, 44.3720680475235), 7, GMapType.GTypes.Hybrid);
+
+
+            foreach (DataRow row in table.Rows)
+            {
+                var h = new House(row);
+
+                var iwTabs = new GInfoWindowTabs();
+
+                var icono1 = new GMarker(h.LatLng);
+                
+                iwTabs.gMarker = icono1;
+                iwTabs.point = h.LatLng;
+
+                iwTabs.tabs = new List<GInfoWindowTab>
+                                  {
+                                      new GInfoWindowTab("Description", h.Html()),
+                                      new GInfoWindowTab("الإتصال ", "<div class='info'  >الإتصال بالمكتب العقاري</div>")
+                                  };
+                GMap1.addInfoWindowTabs(iwTabs);
+                
+            }
             //some test
 
+            /*
             //مدينة بغداد
             var latlng = new GLatLng(33.303708016355245, 44.3720680475235);
             var latlng1 = new GLatLng(33.30494095074294, 44.3713653087616);
@@ -24,19 +53,7 @@ namespace BSIraq
             var latlng5 = new GLatLng(32.61622759816053, 44.037339091300964);
 
 
-            GMap1.enableHookMouseWheelToZoom = true;
-
-            GMap1.setCenter(latlng, 7, GMapType.GTypes.Hybrid);
-
-
-            //اضهار صورة مقربة للموقع
-
-            //GMarker marker = new GMarker(latlng);
-            //GInfoWindowOptions IWoptions = new GInfoWindowOptions(17, GMapType.GTypes.Hybrid);
-            //GShowMapBlowUp mbUp = new GShowMapBlowUp(marker, false, IWoptions);
-            //gMap.addShowMapBlowUp(mbUp);
-
-
+ 
             var iwTabs = new GInfoWindowTabs();
 
             var icono1 = new GMarker(latlng);
@@ -66,6 +83,8 @@ namespace BSIraq
             iwTabs2.gMarker = icono;
             iwTabs2.tabs = tabs;
             GMap1.addInfoWindowTabs(iwTabs2);
+             * 
+             * */
         }
     }
 }
