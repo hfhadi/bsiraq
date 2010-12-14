@@ -11,7 +11,6 @@
   </NAntValidationSettings>
   <RecentFiles>
     <RecentFiles>
-      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:AddHouse.aspx.designer.cs" caret="1428" fromTop="40" />
       <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:Buy.aspx.cs" caret="196" fromTop="9" />
       <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:Home.aspx.cs" caret="195" fromTop="9" />
       <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:Map.aspx.cs" caret="2904" fromTop="5" />
@@ -21,8 +20,6 @@
       <File id="774748E8-C702-4CA9-9909-B64DA877C00A/d:controls/f:Login.ascx.cs" caret="163" fromTop="7" />
       <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:Global.asax.cs" caret="258" fromTop="11" />
       <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:Map.aspx" caret="232" fromTop="2" />
-      <File id="d:&amp;/f:AboutUs.aspx/l:C!?P4?Application?BSIraq?AboutUs.aspx" caret="210" fromTop="3" />
-      <File id="d:&amp;/f:ContactUs.aspx/l:C!?P4?Application?BSIraq?ContactUs.aspx" caret="365" fromTop="11" />
       <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:Default.aspx" caret="444" fromTop="11" />
       <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:Home.aspx" caret="231" fromTop="3" />
       <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:Buy.aspx" caret="232" fromTop="4" />
@@ -36,7 +33,8 @@
       <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:SearchResult.aspx" caret="332" fromTop="7" />
       <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:SearchResult.aspx.cs" caret="99" fromTop="5" />
       <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:Sell.aspx" caret="247" fromTop="4" />
-      <File id="d:&amp;/f:HouseList.ascx/l:C!?P4?Application?BSIraq?controls?HouseList.ascx" caret="691" fromTop="16" />
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:AddHouse.aspx.designer.cs" caret="1231" fromTop="15" />
+      <File id="774748E8-C702-4CA9-9909-B64DA877C00A/d:controls/f:HouseList.ascx" caret="656" fromTop="15" />
     </RecentFiles>
     <RecentEdits>
       <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:SearchResult.aspx.cs" caret="241" fromTop="6" />
@@ -45,12 +43,6 @@
       <File id="774748E8-C702-4CA9-9909-B64DA877C00A/d:controls/f:Login.ascx.cs" caret="163" fromTop="7" />
       <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:Global.asax.cs" caret="1046" fromTop="55" />
       <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:Global.asax.cs" caret="258" fromTop="11" />
-      <File id="d:&amp;/f:AboutUs.aspx/l:C!?P4?Application?BSIraq?AboutUs.aspx" caret="453" fromTop="0" />
-      <File id="d:&amp;/f:AboutUs.aspx/l:C!?P4?Application?BSIraq?AboutUs.aspx" caret="138" fromTop="2" />
-      <File id="d:&amp;/f:AboutUs.aspx/l:C!?P4?Application?BSIraq?AboutUs.aspx" caret="1986" fromTop="13" />
-      <File id="d:&amp;/f:AboutUs.aspx/l:C!?P4?Application?BSIraq?AboutUs.aspx" caret="210" fromTop="3" />
-      <File id="d:&amp;/f:ContactUs.aspx/l:C!?P4?Application?BSIraq?ContactUs.aspx" caret="318" fromTop="8" />
-      <File id="d:&amp;/f:ContactUs.aspx/l:C!?P4?Application?BSIraq?ContactUs.aspx" caret="349" fromTop="10" />
       <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:Site.Master" caret="664" fromTop="13" />
       <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:Buy.aspx" caret="214" fromTop="2" />
       <File id="774748E8-C702-4CA9-9909-B64DA877C00A/f:Sell.aspx" caret="229" fromTop="2" />
@@ -61,8 +53,6 @@
       <File id="774748E8-C702-4CA9-9909-B64DA877C00A/d:controls/f:Search.ascx" caret="1348" fromTop="31" />
       <File id="774748E8-C702-4CA9-9909-B64DA877C00A/d:controls/f:Search.ascx.cs" caret="454" fromTop="18" />
       <File id="774748E8-C702-4CA9-9909-B64DA877C00A/d:controls/f:Search.ascx" caret="525" fromTop="11" />
-      <File id="d:&amp;/f:HouseList.ascx/l:C!?P4?Application?BSIraq?controls?HouseList.ascx" caret="125" fromTop="3" />
-      <File id="d:&amp;/f:HouseList.ascx/l:C!?P4?Application?BSIraq?controls?HouseList.ascx" caret="1228" fromTop="30" />
       <File id="774748E8-C702-4CA9-9909-B64DA877C00A/d:controls/f:HouseList.ascx.cs" caret="0" fromTop="0" />
       <File id="774748E8-C702-4CA9-9909-B64DA877C00A/d:controls/f:HouseList.ascx.cs" caret="236" fromTop="10" />
       <File id="774748E8-C702-4CA9-9909-B64DA877C00A/d:controls/f:HouseList.ascx.cs" caret="336" fromTop="15" />
